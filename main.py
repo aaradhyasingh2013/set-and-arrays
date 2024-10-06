@@ -1,0 +1,11 @@
+a={1,2,2,3,4,4,4}
+print(a)
+b={1,"hello",2.0}
+print(b)
+x={4,5,6}
+y={5,6,7}
+print(a.pop())
+print(x.union(y))
+print(x.intersection(y))
+print(x.difference(y))
+print(x.symmetric_difference(y))
